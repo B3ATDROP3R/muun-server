@@ -1,5 +1,5 @@
 {
-  "prefix": "get",
+  "prefix": "api",
   "mainPagePath": "/index.html",
   "notFoundPagePath": "/404.html",
   "ratelimit": {
